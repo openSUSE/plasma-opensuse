@@ -1,8 +1,0 @@
-[Desktop Entry]
-Type=Application
-Exec=SUSEgreeter -caption "%c" %i %m  
-Icon=SUSEgreeter
-Terminal=false
-Name=openSUSE
-X-KDE-autostart-after=plasma
-X-KDE-autostart-condition=SUSEgreeterrc:General:FirstLogin113:true
