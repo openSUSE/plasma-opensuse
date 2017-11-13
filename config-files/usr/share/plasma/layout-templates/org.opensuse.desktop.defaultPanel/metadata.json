@@ -1,0 +1,28 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "opensuse-kde@opensuse.org",
+                "Name": "openSUSE KDE Team"
+            },
+            {
+                "Email": "aseigo@kde.org",
+                "Name": "Aaron Seigo"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "EnabledByDefault": true,
+        "Id": "org.opensuse.desktop.defaultPanel",
+        "License": "GPL",
+        "Name": "Default openSUSE Panel",
+        "ServiceTypes": [
+            "Plasma/LayoutTemplate"
+        ],
+        "Version": "1.0",
+        "Website": "http://opensuse.org/"
+    },
+    "X-Plasma-ContainmentCategories": "panel",
+    "X-Plasma-Shell": "plasmashell"
+}

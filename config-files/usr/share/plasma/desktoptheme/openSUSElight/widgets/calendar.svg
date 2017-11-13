@@ -1,0 +1,1852 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="167.2pt"
+   height="110.4pt"
+   id="svg2">
+  <metadata
+     id="metadata591">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4">
+    <linearGradient
+       x1="7.8731875"
+       y1="10.234293"
+       x2="7.8731875"
+       y2="9.2105932"
+       id="gradient0"
+       gradientUnits="objectBoundingBox"
+       gradientTransform="translate(-155.337,-193.441)"
+       spreadMethod="pad">
+      <stop
+         id="stop7"
+         style="stop-color:#f0711f;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop9"
+         style="stop-color:#f07d1f;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="9.8812466"
+       cy="10.25623"
+       r="0.35353464"
+       fx="9.8812466"
+       fy="10.25623"
+       id="gradient1"
+       gradientUnits="objectBoundingBox"
+       gradientTransform="matrix(0.571426,0.952379,-2.40083,1.44049,408.573,-486.41)"
+       spreadMethod="pad">
+      <stop
+         id="stop12"
+         style="stop-color:#5d992d;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop14"
+         style="stop-color:#5d992d;stop-opacity:0"
+         offset="1" />
+    </radialGradient>
+    <linearGradient
+       x1="10.463173"
+       y1="8.1630754"
+       x2="10.463173"
+       y2="9.1635103"
+       id="gradient2"
+       gradientUnits="objectBoundingBox"
+       gradientTransform="translate(-179.337,-146.943)"
+       spreadMethod="pad">
+      <stop
+         id="stop17"
+         style="stop-color:#485a61;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop19"
+         style="stop-color:#485a61;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="layer1">
+    <path
+       d="M 0,2.79471 0,0 z"
+       transform="translate(1356.92,-347.764)"
+       id="path2276"
+       style="fill:#ffffff;fill-opacity:0.756878" />
+    <rect
+       width="400"
+       height="664"
+       x="0"
+       y="0"
+       transform="translate(1418,-282)"
+       id="rect4744"
+       style="opacity:0;fill:#ffffff" />
+    <rect
+       width="178.00005"
+       height="11.999996"
+       x="0"
+       y="0"
+       transform="translate(24,0)"
+       id="weekDayHeader"
+       style="opacity:0;fill:#000000" />
+    <rect
+       width="18"
+       height="106.00002"
+       x="0"
+       y="0"
+       transform="translate(0,32)"
+       id="weeksColumn"
+       style="opacity:0;fill:#000000" />
+    <path
+       d="m 1.34377,0.00225 c -0.766858,0.0804 -1.34786823,0.72897 -1.3437482253,1.5 l 0,17.99995 c 6e-5,0.8284 0.6716102253,1.5 1.4999982253,1.5 l 17.99998,0 c 0.8284,0 1.4999,-0.6716 1.5,-1.5 L 21,1.50225 c -10e-5,-0.82839 -0.6716,-1.49992 -1.5,-1.5 l -17.99998,0 c -0.0521,-0.003 -0.1042,-0.003 -0.15625,0 z m 0.15625,1.5 17.99998,0 0,17.99995 -17.99998,0 z"
+       transform="translate(106,76.4978)"
+       id="red"
+       style="opacity:0.5;fill:#970012" />
+    <path
+       d="m 1.34377,0.00225 c -0.766858,0.0804 -1.34786823,0.72897 -1.3437482253,1.5 l 0,17.99995 c 6e-5,0.8284 0.6716102253,1.5 1.4999982253,1.5 l 17.99998,0 c 0.8284,0 1.4999,-0.6716 1.5,-1.5 L 21,1.50225 c -10e-5,-0.82839 -0.6716,-1.49992 -1.5,-1.5 l -17.99998,0 c -0.0521,-0.003 -0.1042,-0.003 -0.15625,0 z m 0.15625,1.5 17.99998,0 0,17.99995 -17.99998,0 z"
+       transform="translate(82,76.4978)"
+       id="selected"
+       style="opacity:0.8;fill:url(#gradient0)" />
+    <path
+       d="m 1.34377,0.00225 c -0.766858,0.0804 -1.34786823,0.72897 -1.3437482253,1.5 l 0,17.99995 c 6e-5,0.8284 0.6716102253,1.5 1.4999982253,1.5 l 17.99998,0 c 0.8284,0 1.4999,-0.6716 1.5,-1.5 L 21,1.50225 c -10e-5,-0.82839 -0.6716,-1.49992 -1.5,-1.5 l -17.99998,0 c -0.0521,-0.003 -0.1042,-0.003 -0.15625,0 z m 0.15625,1.5 17.99998,0 0,17.99995 -17.99998,0 z"
+       transform="translate(56.5,76.4978)"
+       id="green"
+       style="opacity:0.5;fill:#86b600" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(199.108,344.051)"
+       id="text4565"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan30" />
+    </text>
+    <rect
+       width="18"
+       height="18"
+       x="0"
+       y="0"
+       transform="translate(78,30)"
+       id="active"
+       style="opacity:0.8;fill:#eff0f1;fill-opacity:0.94117647" />
+    <rect
+       width="18"
+       height="18"
+       x="0"
+       y="0"
+       transform="translate(48,30)"
+       id="inactive"
+       style="opacity:0.3;fill:#eff0f1;fill-opacity:0.94117647" />
+    <path
+       d="m 1.34377,0.00225 c -0.766858,0.0804 -1.34786823,0.72897 -1.3437482253,1.5 l 0,17.99995 c 6e-5,0.8284 0.6716102253,1.5 1.4999982253,1.5 l 17.99998,0 c 0.8284,0 1.4999,-0.6716 1.5,-1.5 L 21,1.50225 c -10e-5,-0.82839 -0.6716,-1.49992 -1.5,-1.5 l -17.99998,0 c -0.0521,-0.003 -0.1042,-0.003 -0.15625,0 z M 20,19.5022 19.5,1.50225 l 0,17.99995 -17.99998,0 z"
+       transform="translate(130,76.4978)"
+       id="toda"
+       style="fill:url(#gradient1)" />
+    <rect
+       width="18"
+       height="18"
+       x="0"
+       y="0"
+       transform="translate(106,30)"
+       id="hoverHighlight"
+       style="fill:url(#gradient2)" />
+    <g
+       id="g2424"
+       style="fill:none;display:none" />
+    <g
+       id="g2426"
+       style="fill:none" />
+    <g
+       id="g3429"
+       style="fill:none" />
+    <g
+       id="g19758"
+       style="fill:none" />
+    <g
+       id="g3935"
+       style="fill:none" />
+    <g
+       id="g8459"
+       style="fill:none" />
+    <g
+       id="g28391"
+       style="fill:none" />
+    <g
+       id="g28393"
+       style="fill:none" />
+    <g
+       id="g28395"
+       style="fill:none" />
+    <g
+       id="g6598"
+       style="fill:none" />
+    <g
+       id="g6640"
+       style="fill:none" />
+    <g
+       id="g6716"
+       style="fill:none" />
+    <g
+       id="g6850"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(178,312.75)"
+       id="text6990"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan50" />
+    </text>
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(201.278,297.331)"
+       id="text2705"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan53" />
+    </text>
+    <g
+       id="layer1-5"
+       style="fill:none;display:none" />
+    <g
+       id="layer2-6"
+       style="fill:none" />
+    <g
+       id="g2424-1"
+       style="fill:none;display:none" />
+    <g
+       id="g2426-1"
+       style="fill:none" />
+    <g
+       id="g3429-5"
+       style="fill:none" />
+    <g
+       id="g19758-9"
+       style="fill:none" />
+    <g
+       id="g3935-8"
+       style="fill:none" />
+    <g
+       id="g8459-4"
+       style="fill:none" />
+    <g
+       id="g28391-8"
+       style="fill:none" />
+    <g
+       id="g28393-1"
+       style="fill:none" />
+    <g
+       id="g28395-0"
+       style="fill:none" />
+    <g
+       id="g6598-3"
+       style="fill:none" />
+    <g
+       id="g6640-0"
+       style="fill:none" />
+    <g
+       id="g6716-4"
+       style="fill:none" />
+    <g
+       id="g6850-4"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(15.3317,389.752)"
+       id="text6990-4"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan71" />
+    </text>
+    <g
+       id="g3175"
+       style="fill:none;display:none" />
+    <g
+       id="g3177"
+       style="fill:none" />
+    <g
+       id="g3179"
+       style="fill:none;display:none" />
+    <g
+       id="g3181"
+       style="fill:none" />
+    <g
+       id="g3183"
+       style="fill:none" />
+    <g
+       id="g3185"
+       style="fill:none" />
+    <g
+       id="g3187"
+       style="fill:none" />
+    <g
+       id="g3189"
+       style="fill:none" />
+    <g
+       id="g3191"
+       style="fill:none" />
+    <g
+       id="g3193"
+       style="fill:none" />
+    <g
+       id="g3195"
+       style="fill:none" />
+    <g
+       id="g3197"
+       style="fill:none" />
+    <g
+       id="g3199"
+       style="fill:none" />
+    <g
+       id="g3201"
+       style="fill:none" />
+    <g
+       id="g3203"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-25.6683,432.752)"
+       id="text3205"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan89" />
+    </text>
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-2.39056,417.332)"
+       id="text2705-6"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan92" />
+    </text>
+    <g
+       id="g3922"
+       style="fill:none;display:none" />
+    <g
+       id="g3387"
+       style="fill:none" />
+    <g
+       id="g3389"
+       style="fill:none;display:none" />
+    <g
+       id="g3391"
+       style="fill:none" />
+    <g
+       id="g3393"
+       style="fill:none" />
+    <g
+       id="g3395"
+       style="fill:none" />
+    <g
+       id="g3397"
+       style="fill:none" />
+    <g
+       id="g3399"
+       style="fill:none" />
+    <g
+       id="g3401"
+       style="fill:none" />
+    <g
+       id="g3403"
+       style="fill:none" />
+    <g
+       id="g3405"
+       style="fill:none" />
+    <g
+       id="g3407"
+       style="fill:none" />
+    <g
+       id="g3409"
+       style="fill:none" />
+    <g
+       id="g3411"
+       style="fill:none" />
+    <g
+       id="g3413"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(47.0748,1416.08)"
+       id="text3415"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan110" />
+    </text>
+    <g
+       id="g5744"
+       style="fill:none;display:none" />
+    <g
+       id="g5746"
+       style="fill:none" />
+    <g
+       id="g5748"
+       style="fill:none;display:none" />
+    <g
+       id="g5750"
+       style="fill:none" />
+    <g
+       id="g5752"
+       style="fill:none" />
+    <g
+       id="g5754"
+       style="fill:none" />
+    <g
+       id="g5756"
+       style="fill:none" />
+    <g
+       id="g5758"
+       style="fill:none" />
+    <g
+       id="g5760"
+       style="fill:none" />
+    <g
+       id="g5762"
+       style="fill:none" />
+    <g
+       id="g5764"
+       style="fill:none" />
+    <g
+       id="g5766"
+       style="fill:none" />
+    <g
+       id="g5768"
+       style="fill:none" />
+    <g
+       id="g5770"
+       style="fill:none" />
+    <g
+       id="g5772"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-852.006,1306.49)"
+       id="text5774"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan128" />
+    </text>
+    <g
+       id="g3441"
+       style="fill:none;display:none" />
+    <g
+       id="g3443"
+       style="fill:none" />
+    <g
+       id="g3445"
+       style="fill:none;display:none" />
+    <g
+       id="g3447"
+       style="fill:none" />
+    <g
+       id="g3449"
+       style="fill:none" />
+    <g
+       id="g3451"
+       style="fill:none" />
+    <g
+       id="g3453"
+       style="fill:none" />
+    <g
+       id="g3455"
+       style="fill:none" />
+    <g
+       id="g3457"
+       style="fill:none" />
+    <g
+       id="g3459"
+       style="fill:none" />
+    <g
+       id="g3461"
+       style="fill:none" />
+    <g
+       id="g3463"
+       style="fill:none" />
+    <g
+       id="g3465"
+       style="fill:none" />
+    <g
+       id="g3467"
+       style="fill:none" />
+    <g
+       id="g3469"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-712.293,405.752)"
+       id="text3471"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan146" />
+    </text>
+    <g
+       id="g3480"
+       style="fill:none;display:none" />
+    <g
+       id="g2817"
+       style="fill:none" />
+    <g
+       id="g2819"
+       style="fill:none;display:none" />
+    <g
+       id="g2821"
+       style="fill:none" />
+    <g
+       id="g2823"
+       style="fill:none" />
+    <g
+       id="g2825"
+       style="fill:none" />
+    <g
+       id="g2827"
+       style="fill:none" />
+    <g
+       id="g2829"
+       style="fill:none" />
+    <g
+       id="g2831"
+       style="fill:none" />
+    <g
+       id="g2833"
+       style="fill:none" />
+    <g
+       id="g2835"
+       style="fill:none" />
+    <g
+       id="g2837"
+       style="fill:none" />
+    <g
+       id="g2839"
+       style="fill:none" />
+    <g
+       id="g2841"
+       style="fill:none" />
+    <g
+       id="g2843"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-769.495,992.774)"
+       id="text2845"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan164" />
+    </text>
+    <g
+       id="g3498"
+       style="fill:none;display:none" />
+    <g
+       id="g3500"
+       style="fill:none" />
+    <g
+       id="g3502"
+       style="fill:none;display:none" />
+    <g
+       id="g3504"
+       style="fill:none" />
+    <g
+       id="g3506"
+       style="fill:none" />
+    <g
+       id="g3508"
+       style="fill:none" />
+    <g
+       id="g3510"
+       style="fill:none" />
+    <g
+       id="g3512"
+       style="fill:none" />
+    <g
+       id="g3514"
+       style="fill:none" />
+    <g
+       id="g3516"
+       style="fill:none" />
+    <g
+       id="g3518"
+       style="fill:none" />
+    <g
+       id="g3520"
+       style="fill:none" />
+    <g
+       id="g3522"
+       style="fill:none" />
+    <g
+       id="g3524"
+       style="fill:none" />
+    <g
+       id="g3526"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-1668.58,883.177)"
+       id="text3528"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan182" />
+    </text>
+    <g
+       id="g4763"
+       style="fill:none;display:none" />
+    <g
+       id="g4765"
+       style="fill:none" />
+    <g
+       id="g4767"
+       style="fill:none;display:none" />
+    <g
+       id="g4769"
+       style="fill:none" />
+    <g
+       id="g4771"
+       style="fill:none" />
+    <g
+       id="g4773"
+       style="fill:none" />
+    <g
+       id="g4775"
+       style="fill:none" />
+    <g
+       id="g4777"
+       style="fill:none" />
+    <g
+       id="g4779"
+       style="fill:none" />
+    <g
+       id="g4781"
+       style="fill:none" />
+    <g
+       id="g4783"
+       style="fill:none" />
+    <g
+       id="g4785"
+       style="fill:none" />
+    <g
+       id="g4787"
+       style="fill:none" />
+    <g
+       id="g4789"
+       style="fill:none" />
+    <g
+       id="g4791"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-955.891,169.52)"
+       id="text4793"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan200" />
+    </text>
+    <g
+       id="g4239"
+       style="fill:none">
+      <g
+         id="g7784"
+         style="fill:none" />
+    </g>
+    <g
+       id="g7786"
+       style="fill:none;display:none" />
+    <g
+       id="g7788"
+       style="fill:none" />
+    <g
+       id="g7790"
+       style="fill:none;display:none" />
+    <g
+       id="g7792"
+       style="fill:none" />
+    <g
+       id="g7794"
+       style="fill:none" />
+    <g
+       id="g7796"
+       style="fill:none" />
+    <g
+       id="g7798"
+       style="fill:none" />
+    <g
+       id="g7800"
+       style="fill:none" />
+    <g
+       id="g7802"
+       style="fill:none" />
+    <g
+       id="g7804"
+       style="fill:none" />
+    <g
+       id="g7806"
+       style="fill:none" />
+    <g
+       id="g7808"
+       style="fill:none" />
+    <g
+       id="g7810"
+       style="fill:none" />
+    <g
+       id="g7812"
+       style="fill:none" />
+    <g
+       id="g7814"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(244.332,-623.5)"
+       id="text7816"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan220" />
+    </text>
+    <g
+       id="layer4"
+       style="fill:none" />
+    <g
+       id="layer5"
+       style="fill:none" />
+    <rect
+       width="1"
+       height="1.25e-06"
+       x="0"
+       y="0"
+       transform="translate(-596.032,-579.411)"
+       id="rect1327"
+       style="opacity:0.57786889;fill:#ffffff;display:none" />
+    <rect
+       width="1"
+       height="1.25e-06"
+       x="0"
+       y="0"
+       transform="translate(-631.159,-606.939)"
+       id="rect2482"
+       style="opacity:0.57786889;fill:#ffffff;display:none" />
+    <g
+       id="g4640"
+       style="opacity:0.40163933;fill:none" />
+    <g
+       id="g4646"
+       style="opacity:0.40163933;fill:none" />
+    <g
+       id="g4730"
+       style="opacity:0.40163933;fill:none" />
+    <g
+       id="g4748"
+       style="opacity:0.40163933;fill:none" />
+    <g
+       id="g5475"
+       style="fill:none;display:none" />
+    <g
+       id="g5477"
+       style="fill:none" />
+    <g
+       id="g5479"
+       style="fill:none;display:none" />
+    <g
+       id="g5481"
+       style="fill:none" />
+    <g
+       id="g5483"
+       style="fill:none" />
+    <g
+       id="g5485"
+       style="fill:none" />
+    <g
+       id="g5487"
+       style="fill:none" />
+    <g
+       id="g5489"
+       style="fill:none" />
+    <g
+       id="g5491"
+       style="fill:none" />
+    <g
+       id="g5493"
+       style="fill:none" />
+    <g
+       id="g5495"
+       style="fill:none" />
+    <g
+       id="g5497"
+       style="fill:none" />
+    <g
+       id="g5499"
+       style="fill:none" />
+    <g
+       id="g5501"
+       style="fill:none" />
+    <g
+       id="g5503"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-5131.59,-784.75)"
+       id="text5505"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan246" />
+    </text>
+    <g
+       id="g6557"
+       style="fill:none;display:none" />
+    <g
+       id="g6559"
+       style="fill:none" />
+    <g
+       id="g6561"
+       style="fill:none;display:none" />
+    <g
+       id="g6563"
+       style="fill:none" />
+    <g
+       id="g6565"
+       style="fill:none" />
+    <g
+       id="g6567"
+       style="fill:none" />
+    <g
+       id="g6569"
+       style="fill:none" />
+    <g
+       id="g6571"
+       style="fill:none" />
+    <g
+       id="g6573"
+       style="fill:none" />
+    <g
+       id="g6575"
+       style="fill:none" />
+    <g
+       id="g6577"
+       style="fill:none" />
+    <g
+       id="g6579"
+       style="fill:none" />
+    <g
+       id="g6581"
+       style="fill:none" />
+    <g
+       id="g6583"
+       style="fill:none" />
+    <g
+       id="g6585"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-394.418,-133.437)"
+       id="text6588"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan264" />
+    </text>
+    <g
+       id="g8959"
+       style="fill:none;display:none" />
+    <g
+       id="g8961"
+       style="fill:none" />
+    <g
+       id="g8963"
+       style="fill:none;display:none" />
+    <g
+       id="g8965"
+       style="fill:none" />
+    <g
+       id="g8967"
+       style="fill:none" />
+    <g
+       id="g8969"
+       style="fill:none" />
+    <g
+       id="g8971"
+       style="fill:none" />
+    <g
+       id="g8973"
+       style="fill:none" />
+    <g
+       id="g8975"
+       style="fill:none" />
+    <g
+       id="g8977"
+       style="fill:none" />
+    <g
+       id="g8979"
+       style="fill:none" />
+    <g
+       id="g8981"
+       style="fill:none" />
+    <g
+       id="g8983"
+       style="fill:none" />
+    <g
+       id="g8985"
+       style="fill:none" />
+    <g
+       id="g9072"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(2451.33,-1427.25)"
+       id="text9074"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan282" />
+    </text>
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(107.332,-330.5)"
+       id="text7319"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan285" />
+    </text>
+    <g
+       id="g9024"
+       style="fill:none;display:none" />
+    <g
+       id="g9026"
+       style="fill:none" />
+    <g
+       id="g9028"
+       style="fill:none;display:none" />
+    <g
+       id="g9030"
+       style="fill:none" />
+    <g
+       id="g9032"
+       style="fill:none" />
+    <g
+       id="g9034"
+       style="fill:none" />
+    <g
+       id="g9036"
+       style="fill:none" />
+    <g
+       id="g9038"
+       style="fill:none" />
+    <g
+       id="g9040"
+       style="fill:none" />
+    <g
+       id="g9042"
+       style="fill:none" />
+    <g
+       id="g9044"
+       style="fill:none" />
+    <g
+       id="g9046"
+       style="fill:none" />
+    <g
+       id="g9048"
+       style="fill:none" />
+    <g
+       id="g9050"
+       style="fill:none" />
+    <g
+       id="g9052"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(62.5748,852.111)"
+       id="text9054"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan303" />
+    </text>
+    <g
+       id="g9058"
+       style="fill:none;display:none" />
+    <g
+       id="g9060"
+       style="fill:none" />
+    <g
+       id="g9062"
+       style="fill:none;display:none" />
+    <g
+       id="g9064"
+       style="fill:none" />
+    <g
+       id="g9066"
+       style="fill:none" />
+    <g
+       id="g9068"
+       style="fill:none" />
+    <g
+       id="g9070"
+       style="fill:none" />
+    <g
+       id="g9073"
+       style="fill:none" />
+    <g
+       id="g9075"
+       style="fill:none" />
+    <g
+       id="g9077"
+       style="fill:none" />
+    <g
+       id="g9079"
+       style="fill:none" />
+    <g
+       id="g9081"
+       style="fill:none" />
+    <g
+       id="g9083"
+       style="fill:none" />
+    <g
+       id="g9085"
+       style="fill:none" />
+    <g
+       id="g9087"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-836.506,742.514)"
+       id="text9089"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan321" />
+    </text>
+    <g
+       id="g9145"
+       style="fill:none;display:none" />
+    <g
+       id="g9147"
+       style="fill:none" />
+    <g
+       id="g9149"
+       style="fill:none;display:none" />
+    <g
+       id="g9151"
+       style="fill:none" />
+    <g
+       id="g9153"
+       style="fill:none" />
+    <g
+       id="g9155"
+       style="fill:none" />
+    <g
+       id="g9157"
+       style="fill:none" />
+    <g
+       id="g9159"
+       style="fill:none" />
+    <g
+       id="g9161"
+       style="fill:none" />
+    <g
+       id="g9163"
+       style="fill:none" />
+    <g
+       id="g9165"
+       style="fill:none" />
+    <g
+       id="g9167"
+       style="fill:none" />
+    <g
+       id="g9169"
+       style="fill:none" />
+    <g
+       id="g9171"
+       style="fill:none" />
+    <g
+       id="g9173"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-696.793,-158.222)"
+       id="text9175"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan339" />
+    </text>
+    <g
+       id="g9179"
+       style="fill:none;display:none" />
+    <g
+       id="g9181"
+       style="fill:none" />
+    <g
+       id="g9183"
+       style="fill:none;display:none" />
+    <g
+       id="g9185"
+       style="fill:none" />
+    <g
+       id="g9187"
+       style="fill:none" />
+    <g
+       id="g9189"
+       style="fill:none" />
+    <g
+       id="g9191"
+       style="fill:none" />
+    <g
+       id="g9193"
+       style="fill:none" />
+    <g
+       id="g9195"
+       style="fill:none" />
+    <g
+       id="g9197"
+       style="fill:none" />
+    <g
+       id="g9199"
+       style="fill:none" />
+    <g
+       id="g9201"
+       style="fill:none" />
+    <g
+       id="g9203"
+       style="fill:none" />
+    <g
+       id="g9205"
+       style="fill:none" />
+    <g
+       id="g9207"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-753.995,428.801)"
+       id="text9209"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan357" />
+    </text>
+    <g
+       id="g9213"
+       style="fill:none;display:none" />
+    <g
+       id="g9215"
+       style="fill:none" />
+    <g
+       id="g9217"
+       style="fill:none;display:none" />
+    <g
+       id="g9219"
+       style="fill:none" />
+    <g
+       id="g9221"
+       style="fill:none" />
+    <g
+       id="g9223"
+       style="fill:none" />
+    <g
+       id="g9225"
+       style="fill:none" />
+    <g
+       id="g9227"
+       style="fill:none" />
+    <g
+       id="g9229"
+       style="fill:none" />
+    <g
+       id="g9231"
+       style="fill:none" />
+    <g
+       id="g9233"
+       style="fill:none" />
+    <g
+       id="g9235"
+       style="fill:none" />
+    <g
+       id="g9237"
+       style="fill:none" />
+    <g
+       id="g9239"
+       style="fill:none" />
+    <g
+       id="g9241"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-1653.08,319.203)"
+       id="text9243"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan375" />
+    </text>
+    <g
+       id="g9247"
+       style="fill:none;display:none" />
+    <g
+       id="g9249"
+       style="fill:none" />
+    <g
+       id="g9251"
+       style="fill:none;display:none" />
+    <g
+       id="g9253"
+       style="fill:none" />
+    <g
+       id="g9255"
+       style="fill:none" />
+    <g
+       id="g9257"
+       style="fill:none" />
+    <g
+       id="g9259"
+       style="fill:none" />
+    <g
+       id="g9261"
+       style="fill:none" />
+    <g
+       id="g9263"
+       style="fill:none" />
+    <g
+       id="g9265"
+       style="fill:none" />
+    <g
+       id="g9267"
+       style="fill:none" />
+    <g
+       id="g9269"
+       style="fill:none" />
+    <g
+       id="g9271"
+       style="fill:none" />
+    <g
+       id="g9273"
+       style="fill:none" />
+    <g
+       id="g9275"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-940.391,-394.454)"
+       id="text9277"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan393" />
+    </text>
+    <g
+       id="g9307"
+       style="fill:none">
+      <g
+         id="g9309"
+         style="fill:none" />
+    </g>
+    <g
+       id="g9311"
+       style="fill:none;display:none" />
+    <g
+       id="g9313"
+       style="fill:none" />
+    <g
+       id="g9315"
+       style="fill:none;display:none" />
+    <g
+       id="g9317"
+       style="fill:none" />
+    <g
+       id="g9319"
+       style="fill:none" />
+    <g
+       id="g9321"
+       style="fill:none" />
+    <g
+       id="g9323"
+       style="fill:none" />
+    <g
+       id="g9325"
+       style="fill:none" />
+    <g
+       id="g9327"
+       style="fill:none" />
+    <g
+       id="g9329"
+       style="fill:none" />
+    <g
+       id="g9331"
+       style="fill:none" />
+    <g
+       id="g9333"
+       style="fill:none" />
+    <g
+       id="g9335"
+       style="fill:none" />
+    <g
+       id="g9337"
+       style="fill:none" />
+    <g
+       id="g9339"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(259.832,-1187.47)"
+       id="text9341"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan413" />
+    </text>
+    <g
+       id="g9345"
+       style="fill:none" />
+    <g
+       id="g9347"
+       style="fill:none" />
+    <rect
+       width="1"
+       height="1.25e-06"
+       x="0"
+       y="0"
+       transform="translate(-580.532,-1143.38)"
+       id="rect9349"
+       style="opacity:0.57786889;fill:#ffffff;display:none" />
+    <rect
+       width="1"
+       height="1.25e-06"
+       x="0"
+       y="0"
+       transform="translate(-615.659,-1170.91)"
+       id="rect9351"
+       style="opacity:0.57786889;fill:#ffffff;display:none" />
+    <g
+       id="g9353"
+       style="opacity:0.40163933;fill:none" />
+    <g
+       id="g9355"
+       style="opacity:0.40163933;fill:none" />
+    <g
+       id="g9357"
+       style="opacity:0.40163933;fill:none" />
+    <g
+       id="g9359"
+       style="opacity:0.40163933;fill:none" />
+    <g
+       id="g9361"
+       style="fill:none;display:none" />
+    <g
+       id="g9363"
+       style="fill:none" />
+    <g
+       id="g9365"
+       style="fill:none;display:none" />
+    <g
+       id="g9367"
+       style="fill:none" />
+    <g
+       id="g9369"
+       style="fill:none" />
+    <g
+       id="g9371"
+       style="fill:none" />
+    <g
+       id="g9373"
+       style="fill:none" />
+    <g
+       id="g9375"
+       style="fill:none" />
+    <g
+       id="g9377"
+       style="fill:none" />
+    <g
+       id="g9379"
+       style="fill:none" />
+    <g
+       id="g9381"
+       style="fill:none" />
+    <g
+       id="g9383"
+       style="fill:none" />
+    <g
+       id="g9385"
+       style="fill:none" />
+    <g
+       id="g9387"
+       style="fill:none" />
+    <g
+       id="g9389"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-5116.09,-1348.72)"
+       id="text9391"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan439" />
+    </text>
+    <g
+       id="g9395"
+       style="fill:none;display:none" />
+    <g
+       id="g9397"
+       style="fill:none" />
+    <g
+       id="g9399"
+       style="fill:none;display:none" />
+    <g
+       id="g9401"
+       style="fill:none" />
+    <g
+       id="g9403"
+       style="fill:none" />
+    <g
+       id="g9405"
+       style="fill:none" />
+    <g
+       id="g9407"
+       style="fill:none" />
+    <g
+       id="g9409"
+       style="fill:none" />
+    <g
+       id="g9411"
+       style="fill:none" />
+    <g
+       id="g9413"
+       style="fill:none" />
+    <g
+       id="g9415"
+       style="fill:none" />
+    <g
+       id="g9417"
+       style="fill:none" />
+    <g
+       id="g9419"
+       style="fill:none" />
+    <g
+       id="g9421"
+       style="fill:none" />
+    <g
+       id="g9423"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-378.918,-697.411)"
+       id="text9425"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan457" />
+    </text>
+    <g
+       id="g9429"
+       style="fill:none;display:none" />
+    <g
+       id="g9431"
+       style="fill:none" />
+    <g
+       id="g9433"
+       style="fill:none;display:none" />
+    <g
+       id="g9435"
+       style="fill:none" />
+    <g
+       id="g9437"
+       style="fill:none" />
+    <g
+       id="g9439"
+       style="fill:none" />
+    <g
+       id="g9441"
+       style="fill:none" />
+    <g
+       id="g9443"
+       style="fill:none" />
+    <g
+       id="g9445"
+       style="fill:none" />
+    <g
+       id="g9447"
+       style="fill:none" />
+    <g
+       id="g9449"
+       style="fill:none" />
+    <g
+       id="g9451"
+       style="fill:none" />
+    <g
+       id="g9453"
+       style="fill:none" />
+    <g
+       id="g9455"
+       style="fill:none" />
+    <g
+       id="g9457"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(2466.83,-1991.22)"
+       id="text9459"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan475" />
+    </text>
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(122.832,-894.473)"
+       id="text9463"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan478" />
+    </text>
+    <g
+       id="g4418"
+       style="fill:none;display:none" />
+    <g
+       id="layer2-0"
+       style="fill:none" />
+    <g
+       id="g2424-9"
+       style="fill:none;display:none" />
+    <g
+       id="g2426-9"
+       style="fill:none" />
+    <g
+       id="g3429-4"
+       style="fill:none" />
+    <g
+       id="g19758-5"
+       style="fill:none" />
+    <g
+       id="g3935-1"
+       style="fill:none" />
+    <g
+       id="g8459-0"
+       style="fill:none" />
+    <g
+       id="g28391-3"
+       style="fill:none" />
+    <g
+       id="g28393-7"
+       style="fill:none" />
+    <g
+       id="g28395-8"
+       style="fill:none" />
+    <g
+       id="g6598-8"
+       style="fill:none" />
+    <g
+       id="g6640-6"
+       style="fill:none" />
+    <g
+       id="g6716-0"
+       style="fill:none" />
+    <g
+       id="g6850-46"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(510.555,-136.108)"
+       id="text6990-7"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan496" />
+    </text>
+    <g
+       id="g5909"
+       style="fill:none;display:none" />
+    <g
+       id="g5911"
+       style="fill:none" />
+    <g
+       id="g5913"
+       style="fill:none;display:none" />
+    <g
+       id="g5915"
+       style="fill:none" />
+    <g
+       id="g5917"
+       style="fill:none" />
+    <g
+       id="g5919"
+       style="fill:none" />
+    <g
+       id="g5921"
+       style="fill:none" />
+    <g
+       id="g5923"
+       style="fill:none" />
+    <g
+       id="g5925"
+       style="fill:none" />
+    <g
+       id="g5927"
+       style="fill:none" />
+    <g
+       id="g5929"
+       style="fill:none" />
+    <g
+       id="g5931"
+       style="fill:none" />
+    <g
+       id="g5933"
+       style="fill:none" />
+    <g
+       id="g5935"
+       style="fill:none" />
+    <g
+       id="g5937"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(454.333,-515.209)"
+       id="text5939"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan514" />
+    </text>
+    <g
+       id="g4240"
+       style="fill:none;display:none" />
+    <g
+       id="g4242"
+       style="fill:none" />
+    <g
+       id="g4244"
+       style="fill:none;display:none" />
+    <g
+       id="g4246"
+       style="fill:none" />
+    <g
+       id="g4248"
+       style="fill:none" />
+    <g
+       id="g4250"
+       style="fill:none" />
+    <g
+       id="g4252"
+       style="fill:none" />
+    <g
+       id="g4254"
+       style="fill:none" />
+    <g
+       id="g4256"
+       style="fill:none" />
+    <g
+       id="g4258"
+       style="fill:none" />
+    <g
+       id="g4260"
+       style="fill:none" />
+    <g
+       id="g4262"
+       style="fill:none" />
+    <g
+       id="g4264"
+       style="fill:none" />
+    <g
+       id="g4266"
+       style="fill:none" />
+    <g
+       id="g4268"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-11.7866,-203.352)"
+       id="text4270"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan532" />
+    </text>
+    <g
+       id="g4418-7"
+       style="fill:none;display:none" />
+    <g
+       id="layer2-5"
+       style="fill:none" />
+    <g
+       id="g2424-4"
+       style="fill:none;display:none" />
+    <g
+       id="g2426-4"
+       style="fill:none" />
+    <g
+       id="g3429-6"
+       style="fill:none" />
+    <g
+       id="g19758-0"
+       style="fill:none" />
+    <g
+       id="g3935-5"
+       style="fill:none" />
+    <g
+       id="g8459-5"
+       style="fill:none" />
+    <g
+       id="g28391-39"
+       style="fill:none" />
+    <g
+       id="g28393-15"
+       style="fill:none" />
+    <g
+       id="g28395-04"
+       style="fill:none" />
+    <g
+       id="g6598-9"
+       style="fill:none" />
+    <g
+       id="g6640-67"
+       style="fill:none" />
+    <g
+       id="g6716-43"
+       style="fill:none" />
+    <g
+       id="g6850-0"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(486.555,-120.108)"
+       id="text6990-9"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan550" />
+    </text>
+    <g
+       id="g5909-0"
+       style="fill:none;display:none" />
+    <g
+       id="g5911-4"
+       style="fill:none" />
+    <g
+       id="g5913-5"
+       style="fill:none;display:none" />
+    <g
+       id="g5915-8"
+       style="fill:none" />
+    <g
+       id="g5917-2"
+       style="fill:none" />
+    <g
+       id="g5919-8"
+       style="fill:none" />
+    <g
+       id="g5921-6"
+       style="fill:none" />
+    <g
+       id="g5923-8"
+       style="fill:none" />
+    <g
+       id="g5925-5"
+       style="fill:none" />
+    <g
+       id="g5927-3"
+       style="fill:none" />
+    <g
+       id="g5929-4"
+       style="fill:none" />
+    <g
+       id="g5931-0"
+       style="fill:none" />
+    <g
+       id="g5933-1"
+       style="fill:none" />
+    <g
+       id="g5935-7"
+       style="fill:none" />
+    <g
+       id="g5937-7"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(430.333,-499.209)"
+       id="text5939-8"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan568" />
+    </text>
+    <g
+       id="g4240-8"
+       style="fill:none;display:none" />
+    <g
+       id="g4242-9"
+       style="fill:none" />
+    <g
+       id="g4244-7"
+       style="fill:none;display:none" />
+    <g
+       id="g4246-8"
+       style="fill:none" />
+    <g
+       id="g4248-3"
+       style="fill:none" />
+    <g
+       id="g4250-9"
+       style="fill:none" />
+    <g
+       id="g4252-7"
+       style="fill:none" />
+    <g
+       id="g4254-2"
+       style="fill:none" />
+    <g
+       id="g4256-5"
+       style="fill:none" />
+    <g
+       id="g4258-0"
+       style="fill:none" />
+    <g
+       id="g4260-2"
+       style="fill:none" />
+    <g
+       id="g4262-4"
+       style="fill:none" />
+    <g
+       id="g4264-8"
+       style="fill:none" />
+    <g
+       id="g4266-0"
+       style="fill:none" />
+    <g
+       id="g4268-6"
+       style="opacity:0.45945943;fill:none" />
+    <text
+       x="0"
+       y="31.25"
+       transform="translate(-35.7865,-187.352)"
+       id="text4270-2"
+       style="font-size:11.875px;fill:#000000;font-family:Lato">
+      <tspan
+         id="tspan586" />
+    </text>
+    <path
+       d="m 9.32806,10.0161 c -0.78089,0.3103 -1.51512,0.7281 -2.24784,1.1364 -0.7997,0.4785 -1.57727,1.0048 -2.2616,1.6407 -0.40084,0.3725 -0.6072,0.6158 -0.97558,1.02 -0.53287,0.6404 -1.03348,1.3151 -1.34321,2.0945 -0.19591,0.4931 -0.21067,0.6241 -0.34076,1.1404 -0.2705,1.3306 -0.29759,2.691 -0.24965,4.0427 0.0878,1.0996 0.18325,2.2266 0.50508,3.2886 0.0447,0.1474 0.10632,0.2891 0.15949,0.4336 0.29059,0.6901 0.73116,1.1671 1.33084,1.5964 0.75709,0.5436 1.57425,0.9756 2.44156,1.3115 1.3689,0.4112 2.82529,0.4379 4.24361,0.4078 1.7386,-0.1612 3.4178,-0.7004 4.9805,-1.4692 0.333,-0.1639 0.6553,-0.3485 0.983,-0.5227 1.5132,-0.8696 2.8235,-2.0322 3.835,-3.457 0.2073,-0.2919 0.3865,-0.6027 0.5798,-0.9041 0.8434,-1.5143 1.234,-3.2018 1.4506,-4.9082 0.0696,-0.548 0.1344,-1.0975 0.1638,-1.6492 0.0309,-0.5792 0.0114,-1.16 0.0171,-1.74 C 22.4772,11.1985 22.0254,8.92318 20.9989,6.86741 20.399,5.6662 20.1742,5.47904 19.3715,4.44862 19.0532,4.15573 18.7592,3.8339 18.4165,3.56994 17.0139,2.48972 15.1718,1.99216 13.4274,1.89349 12.8985,1.86357 12.368,1.90353 11.8383,1.90855 10.045,2.02525 8.30088,2.44565 6.59715,2.99931 6.03831,3.18091 5.48998,3.39341 4.9364,3.59047 3.67595,4.03796 3.04309,2.25542 4.30354,1.80792 l 0,0 C 4.89038,1.60009 5.47144,1.3752 6.06405,1.18443 7.93878,0.580919 9.85834,0.130817 11.8308,0.0170102 c 0.6157,5.25e-4 1.2328,-0.03959 1.8471,0.0016 2.1442,0.1436838 4.3367,0.8161778 6.0324,2.1715698 0.4172,0.33344 0.7735,0.7366 1.1603,1.1049 0.9272,1.21759 1.1828,1.43367 1.8716,2.83848 1.126,2.29622 1.6263,4.82804 1.749,7.36734 -0.009,0.6354 0.009,1.2718 -0.0264,1.9063 -0.0329,0.5888 -0.1018,1.1754 -0.1782,1.7602 -0.2572,1.9668 -0.7373,3.9014 -1.73,5.6356 -0.2276,0.3494 -0.4397,0.7095 -0.6829,1.0483 -1.1724,1.6328 -2.6929,2.9612 -4.4349,3.9571 -0.3635,0.1918 -0.721,0.3954 -1.0905,0.5754 -1.796,0.8748 -3.7261,1.4756 -5.7227,1.6362 C 8.95985,30.0479 7.25459,30.0066 5.65729,29.4825 4.63921,29.081 3.67346,28.5772 2.78485,27.9337 2.64754,27.8311 2.50516,27.7349 2.37291,27.6259 1.66938,27.0456 1.14028,26.2879 0.792349,25.4484 c -0.0711,-0.204 -0.15197,-0.4049 -0.21336,-0.612 -0.35293,-1.1908 -0.46723,-2.4486 -0.5599905,-3.6805 -0.0512,-1.5329 -0.01479999,-3.0755 0.3087605,-4.5812 0.16987,-0.6442 0.19957,-0.8466 0.45567,-1.4618 C 1.18025,14.1596 1.7824,13.3204 2.44711,12.5368 2.8881,12.0559 3.10016,11.8045 3.58465,11.3596 4.36693,10.6412 5.24874,10.0405 6.16031,9.49978 6.99567,9.03534 7.83327,8.5592 8.72992,8.22164 9.99881,7.79868 10.597,9.59316 9.32808,10.0161 z"
+       transform="translate(130.225,69.3905)"
+       id="today"
+       style="fill:#83af77" />
+  </g>
+</svg>

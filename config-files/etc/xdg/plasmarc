@@ -1,0 +1,8 @@
+[Defaults]
+plainClockColor=7,33,0
+
+[Wallpapers]
+usersWallpapers=/usr/share/wallpapers/openSUSEdefault/
+
+[Theme]
+name=openSUSE

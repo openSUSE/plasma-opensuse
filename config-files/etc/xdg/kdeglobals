@@ -1,0 +1,36 @@
+[KDE URL Restrictions]
+rule_1=redirect,,help.opensuse.org,,irc,irc.opensuse.org,,true
+rule_count=1
+
+[General]
+shadeSortColumn=true
+BrowserApplication=firefox
+desktopFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
+fixed=Hack,9,-1,5,50,0,0,0,0,0,Regular
+font=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
+menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
+smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0,Regular
+taskbarFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
+toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0,Regular
+
+[Icons]
+Theme=breeze
+
+[KDE]
+ChangeCursor=true
+contrast=5
+LookAndFeelPackage=org.openSUSE.desktop
+
+[Paths]
+Trash=$HOME/Desktop/Trash/
+
+[PreviewSettings]
+camera=true
+file=true
+fonts=true
+
+[Directories]
+dir_pixmap=/usr/share/pixmaps
+
+[KFileDialog Settings]
+Breadcrumb Navigation=true

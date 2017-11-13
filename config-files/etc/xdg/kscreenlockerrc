@@ -1,0 +1,6 @@
+[Greeter]
+Theme=org.openSUSE.desktop
+WallpaperPlugin=org.kde.image
+
+[Greeter][Wallpaper][org.kde.image][General]
+FillMode=2

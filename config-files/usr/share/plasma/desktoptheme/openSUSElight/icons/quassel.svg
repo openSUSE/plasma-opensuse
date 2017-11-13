@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="30"
+   height="30"
+   id="svg9554"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="quassel.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="750"
+     id="namedview31"
+     showgrid="false"
+     inkscape:zoom="7.8666667"
+     inkscape:cx="16.340275"
+     inkscape:cy="-4.3252554"
+     inkscape:window-x="0"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9554" />
+  <defs
+     id="defs9556" />
+  <metadata
+     id="metadata9559">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-262.14285,-517.36182)"
+     id="layer1">
+    <g
+       id="quassel">
+      <rect
+         width="24"
+         height="24"
+         x="265.14285"
+         y="520.36182"
+         id="rect11280"
+         style="opacity:0.01000001;fill:none;stroke:none" />
+      <g
+         transform="matrix(1,0,0,1.000033,0,-0.01790927)"
+         id="g9575">
+        <path
+           d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+           transform="matrix(-0.4202206,-0.1125911,0.1125978,-0.420196,246.0928,604.85576)"
+           id="path10197-4-8"
+           style="fill:none;stroke:#1c2122;stroke-width:4.59729099000000030;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+        <path
+           d="m -587,1276.9688 a 2.03125,2.03125 0 1 1 -4.0625,0 2.03125,2.03125 0 1 1 4.0625,0 z"
+           transform="matrix(1.9692185,0,0,-1.9692185,1438.8398,3049.5972)"
+           id="path7219-66"
+           style="opacity:0.98999999000000005;fill:none;stroke:#1c2122;stroke-width:1.01561474999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.30000019000000044;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+    <g
+       transform="translate(33.966379,0)"
+       id="quassel_inactive">
+      <rect
+         width="24"
+         height="24"
+         x="265.14246"
+         y="520.36182"
+         id="rect11290"
+         style="opacity:0.01000001;fill:none;stroke:none" />
+      <g
+         transform="matrix(1,0,0,1.000033,0,-0.01790927)"
+         id="g11292">
+        <path
+           d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+           transform="matrix(-0.43361533,-0.03522232,0.03522834,-0.433591,259.63017,609.25618)"
+           id="path11294"
+           style="fill:none;stroke:#1c2122;stroke-width:4.59729099000000030;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18.38916372999999993, 9.19458185999999955, 4.59729092999999978, 9.19458185999999955;stroke-dashoffset:0;display:inline" />
+        <path
+           d="m -587,1276.9688 a 2.03125,2.03125 0 1 1 -4.0625,0 2.03125,2.03125 0 1 1 4.0625,0 z"
+           transform="matrix(0.50967125,-1.9020562,-1.9021818,-0.50967125,3008.1475,65.430411)"
+           id="path11296"
+           style="opacity:0.98999999000000005;fill:none;stroke:#1c2122;stroke-width:1.01561474999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.30000019000000044;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+    <g
+       transform="translate(35.102801,35.355339)"
+       id="quassel_message">
+      <rect
+         width="24"
+         height="24"
+         x="265.14304"
+         y="520.36151"
+         id="rect11300"
+         style="opacity:0.01000001;fill:none;stroke:none" />
+      <g
+         transform="matrix(1,0,0,1.000033,0,-0.01790927)"
+         id="g11302">
+        <path
+           d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+           transform="matrix(-0.4202206,-0.1125911,0.1125978,-0.420196,246.0928,604.85576)"
+           id="path11304"
+           style="fill:none;stroke:#83af77;stroke-width:4.59729099;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+        <path
+           d="m -587,1276.9688 a 2.03125,2.03125 0 1 1 -4.0625,0 2.03125,2.03125 0 1 1 4.0625,0 z"
+           transform="matrix(1.9692185,0,0,-1.9692185,1438.8398,3049.5972)"
+           id="path11306"
+           style="opacity:0.98999999;fill:none;stroke:#83af77;stroke-width:1.01561475;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.30000019;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+    <g
+       transform="translate(-22.170562,33.643458)"
+       id="quassel-inactive">
+      <rect
+         width="24"
+         height="24"
+         x="265.14243"
+         y="520.36139"
+         id="rect11290-4"
+         style="opacity:0.01000001;fill:none;stroke:none" />
+      <g
+         transform="matrix(1,0,0,1.000033,0,-0.01790927)"
+         id="g11292-8">
+        <path
+           d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+           transform="matrix(-0.43361533,-0.03522232,0.03522834,-0.433591,259.63017,609.25618)"
+           id="path11294-5"
+           style="fill:none;stroke:#1c2122;stroke-width:4.59729099000000030;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:18.38916372999999993, 9.19458185999999955, 4.59729092999999978, 9.19458185999999955;stroke-dashoffset:0;display:inline" />
+        <path
+           d="m -587,1276.9688 a 2.03125,2.03125 0 1 1 -4.0625,0 2.03125,2.03125 0 1 1 4.0625,0 z"
+           transform="matrix(0.50967125,-1.9020562,-1.9021818,-0.50967125,3008.1475,65.430411)"
+           id="path11296-2"
+           style="opacity:0.98999999000000005;fill:none;stroke:#1c2122;stroke-width:1.01561474999999990;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.30000019000000044;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+    <g
+       transform="translate(6.1807265,56.478932)"
+       id="quassel-message">
+      <rect
+         width="24"
+         height="24"
+         x="265.14313"
+         y="520.36188"
+         id="rect11300-7"
+         style="opacity:0.01000001;fill:none;stroke:none" />
+      <g
+         transform="matrix(1,0,0,1.000033,0,-0.01790927)"
+         id="g11302-3">
+        <path
+           d="m -2.8284264,179.43886 a 22.98097,22.98097 0 1 1 -45.9619406,0 22.98097,22.98097 0 1 1 45.9619406,0 z"
+           transform="matrix(-0.4202206,-0.1125911,0.1125978,-0.420196,246.0928,604.85576)"
+           id="path11304-1"
+           style="fill:none;stroke:#83af77;stroke-width:4.59729099;stroke-linecap:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline" />
+        <path
+           d="m -587,1276.9688 a 2.03125,2.03125 0 1 1 -4.0625,0 2.03125,2.03125 0 1 1 4.0625,0 z"
+           transform="matrix(1.9692185,0,0,-1.9692185,1438.8398,3049.5972)"
+           id="path11306-4"
+           style="opacity:0.98999999;fill:none;stroke:#83af77;stroke-width:1.01561475;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4.30000019;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+      </g>
+    </g>
+  </g>
+</svg>

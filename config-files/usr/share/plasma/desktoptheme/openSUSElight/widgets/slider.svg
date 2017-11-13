@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="128"
+   height="128"
+   id="svg2">
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="current-color-scheme" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1">
+    <path
+       d="m 10,7 0,3 3,0 0,-3 -3,0 z"
+       id="groove-top"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <path
+       d="M 9,7 C 7.31784,7 6,8.31784 6,10 l 3,0 z"
+       id="groove-topleft"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <rect
+       width="2.0329318"
+       height="2.077126"
+       rx="0"
+       ry="2.077126"
+       x="2.2599621"
+       y="4.6594176"
+       id="hint-tile-center"
+       style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 62.4,52 c -6.62742,0 -12,5.37258 -12,12 0,6.62742 5.37258,12 12,12 6.62742,0 12,-5.37258 12,-12 0,-6.62742 -5.37258,-12 -12,-12 z m 0,2.4 c 5.30194,0 9.6,4.29806 9.6,9.6 0,5.30194 -4.29806,9.6 -9.6,9.6 -5.30194,0 -9.6,-4.29806 -9.6,-9.6 0,-5.30194 4.29806,-9.6 9.6,-9.6 z"
+       id="vertical-slider-shadow"
+       style="fill:none;stroke:none" />
+    <path
+       d="M 17,10 C 17,8.31784 15.68216,7 14,7 l 0,3 z"
+       id="groove-topright"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <path
+       d="m 10,18 0,-3 3,0 0,3 -3,0 z"
+       id="groove-bottom"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <path
+       d="M 9,18 C 7.31784,18 6,16.68216 6,15 l 3,0 z"
+       id="groove-bottomleft"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <path
+       d="m 17,15 c 0,1.68216 -1.31784,3 -3,3 l 0,-3 z"
+       id="groove-bottomright"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <path
+       d="m 10,11 0,3 3,0 0,-3 -3,0 z"
+       id="groove-center"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <path
+       d="m 6,11 0,3 3,0 0,-3 -3,0 z"
+       id="groove-left"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <path
+       d="m 14,11 0,3 3,0 0,-3 -3,0 z"
+       id="groove-right"
+       style="opacity:0.4;color:#31363b;fill:currentColor" />
+    <path
+       d="m 28,7 0,3 3,0 0,-3 -3,0 z"
+       id="groove-highlight-top"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="m 27,7 c -1.68216,0 -3,1.31784 -3,3 l 3,0 z"
+       id="groove-highlight-topleft"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="M 35,10 C 35,8.31784 33.68216,7 32,7 l 0,3 z"
+       id="groove-highlight-topright"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="m 28,18 0,-3 3,0 0,3 -3,0 z"
+       id="groove-highlight-bottom"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="m 27,18 c -1.68216,0 -3,-1.31784 -3,-3 l 3,0 z"
+       id="groove-highlight-bottomleft"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="m 35,15 c 0,1.68216 -1.31784,3 -3,3 l 0,-3 z"
+       id="groove-highlight-bottomright"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="m 28,11 0,3 3,0 0,-3 -3,0 z"
+       id="groove-highlight-center"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="m 24,11 0,3 3,0 0,-3 -3,0 z"
+       id="groove-highlight-left"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="m 32,11 0,3 3,0 0,-3 -3,0 z"
+       id="groove-highlight-right"
+       style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    <path
+       d="m 101.13149,101.14392 c -6.62742,0 -12,5.37258 -12,12 0,6.62742 5.37258,12 12,12 6.62742,0 12,-5.37258 12,-12 0,-6.62742 -5.37258,-12 -12,-12 z m 0,2.4 c 5.30194,0 9.6,4.29806 9.6,9.6 0,5.30194 -4.29806,9.6 -9.6,9.6 -5.30194,0 -9.6,-4.29806 -9.6,-9.6 0,-5.30194 4.29806,-9.6 9.6,-9.6 z"
+       id="horizontal-slider-shadow"
+       style="fill:none;stroke:none" />
+    <g
+       transform="matrix(1.2,0,0,1.2,6.8,7.2)"
+       id="vertical-slider-handle">
+      <rect
+         width="24"
+         height="24"
+         x="14"
+         y="42"
+         transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"
+         id="rect3785"
+         style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+      <path
+         d="m 18,40 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+         transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"
+         id="path3921"
+         style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+      <path
+         d="m 18,40 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+         transform="matrix(1.875,0,0,1.875,-10.25,-36)"
+         id="path3923"
+         style="color:#eff0f1;fill:currentColor" />
+    </g>
+    <g
+       transform="matrix(1.2,0,0,1.2,6.8000001,35.2)"
+       id="horizontal-slider-handle">
+      <rect
+         width="24"
+         height="24"
+         x="14"
+         y="42"
+         transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"
+         id="rect3785-4"
+         style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+      <path
+         d="m 18,40 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+         transform="matrix(2.0833333,0,0,2.0833333,-13.166666,-44.333332)"
+         id="path3921-2"
+         style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+      <path
+         d="m 18,40 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+         transform="matrix(1.875,0,0,1.875,-10.25,-36)"
+         id="path3923-4"
+         style="color:#eff0f1;fill:currentColor" />
+    </g>
+    <g
+       transform="matrix(1.2,0,0,1.2,36.8,7.2000003)"
+       id="vertical-slider-hover">
+      <rect
+         width="24"
+         height="24"
+         x="14"
+         y="42"
+         transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"
+         id="rect3019"
+         style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+      <path
+         d="m 18,40 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+         transform="matrix(2.2916667,0,0,2.2916667,-16.083334,-52.666668)"
+         id="path3021"
+         style="opacity:0.4;color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    </g>
+    <g
+       transform="matrix(1.2,0,0,1.2,66.8,7.2000003)"
+       id="vertical-slider-focus">
+      <rect
+         width="24"
+         height="24"
+         x="14"
+         y="42"
+         transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"
+         id="rect3027"
+         style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+      <path
+         d="m 18,40 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+         transform="matrix(2.2916667,0,0,2.2916667,-16.083334,-52.666668)"
+         id="path3029"
+         style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    </g>
+    <g
+       transform="matrix(1.2,0,0,1.2,36.8,35.2)"
+       id="horizontal-slider-hover">
+      <rect
+         width="24"
+         height="24"
+         x="14"
+         y="42"
+         transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"
+         id="rect3801"
+         style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+      <path
+         d="m 18,40 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+         transform="matrix(2.2916667,0,0,2.2916667,-16.083334,-52.666668)"
+         id="path3803"
+         style="opacity:0.4;color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    </g>
+    <g
+       transform="matrix(1.2,0,0,1.2,66.8,35.2)"
+       id="horizontal-slider-focus">
+      <rect
+         width="24"
+         height="24"
+         x="14"
+         y="42"
+         transform="matrix(0.83333333,0,0,0.83333333,-5.6666667,-6)"
+         id="rect3807"
+         style="opacity:0.00100002;fill:#000000;fill-opacity:0.00392157;stroke:none" />
+      <path
+         d="m 18,40 a 4,4 0 1 1 -8,0 4,4 0 1 1 8,0 z"
+         transform="matrix(2.2916667,0,0,2.2916667,-16.083334,-52.666668)"
+         id="path3809"
+         style="color:#3daee9;fill:#28ae95;fill-opacity:1" />
+    </g>
+  </g>
+</svg>

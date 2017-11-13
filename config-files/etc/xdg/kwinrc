@@ -1,0 +1,6 @@
+[Desktops]
+Number=2
+
+[Compositing]
+GraphicsSystem=raster
+AnimationSpeed=2
