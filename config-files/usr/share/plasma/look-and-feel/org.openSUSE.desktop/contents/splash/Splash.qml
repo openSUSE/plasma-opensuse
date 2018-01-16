@@ -1,5 +1,6 @@
 /*
  *   Copyright 2014 Marco Martin <mart@kde.org>
+ *   Copyright 2018 Fabian Vogt <fabian@ritter-vogt.de>
  *
  *   This program is free software; you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License version 2,
@@ -28,6 +29,7 @@ Rectangle {
     onStageChanged: {
         if (stage == 1) {
             introAnimation.running = true;
+            casingIntroAnimation.running = true;
         } else if (stage == 2) {
             bulbOn.running = true;
         } else if (stage == 5) {
@@ -35,18 +37,26 @@ Rectangle {
             introAnimation.from = 1;
             introAnimation.to = 0;
             introAnimation.running = true;
-
-            // bulbOff.running = true;
         }
     }
 
     Image {
-        source: "images/bulb.png"
+        id: casing
+        opacity: 0
+        source: "images/bulb.svg"
         fillMode: Image.PreserveAspectFit
         height: parent.height
-        x: parent.width * 0.65
-        anchors.top: parent.top
+        width: parent.height // The image is square
+        anchors.horizontalCenter: parent.horizontalCenter
+        y: height * -0.1
+    }
+
+    Image {
+        id: bulb
+        source: "images/filamentglow.svg"
         opacity: 0
+        fillMode: Image.PreserveAspectFit
+        anchors.fill: casing
         OpacityAnimator on opacity {
             running: false
             id: bulbOn
@@ -54,14 +64,6 @@ Rectangle {
             to: 1
             duration: 1000
             easing.type: Easing.InOutBounce
-        }
-        OpacityAnimator on opacity {
-            running: false
-            id: bulbOff
-            from: 1
-            to: 0
-            duration: 1500
-            easing.type: Easing.OutElastic
         }
     }
 
@@ -79,8 +81,8 @@ Rectangle {
 
         Image {
             id: busyIndicator
-            //again sync from SDDM theme
-            anchors.centerIn: parent
+            anchors.horizontalCenter: parent.horizontalCenter
+            y: parent.height * 0.7
             source: "images/busywidget.svgz"
             sourceSize.height: units.gridUnit * 4
             sourceSize.width: units.gridUnit * 4
@@ -101,6 +103,16 @@ Rectangle {
         from: 0
         to: 1
         duration: 1000
+        easing.type: Easing.InOutQuad
+    }
+
+    OpacityAnimator {
+        id: casingIntroAnimation
+        running: false
+        target: casing
+        from: 0
+        to: 0.5
+        duration: 500
         easing.type: Easing.InOutQuad
     }
 }
