@@ -43,27 +43,27 @@ Rectangle {
     Image {
         id: casing
         opacity: 0
-        source: "images/bulb.svg"
+        source: "images/bulb.png" // This part doesn't seem to work with SVG blur
         fillMode: Image.PreserveAspectFit
-        height: parent.height
-        width: parent.height // The image is square
+        height: parent.height * 0.3
+        width: parent.height * 0.3 // The image is square
         anchors.horizontalCenter: parent.horizontalCenter
-        y: height * -0.1
-    }
-
-    Image {
-        id: bulb
-        source: "images/filamentglow.svg"
-        opacity: 0
-        fillMode: Image.PreserveAspectFit
-        anchors.fill: casing
+        y: parent.height * 0.2
         OpacityAnimator on opacity {
             running: false
             id: bulbOn
             from: 0
             to: 1
             duration: 1000
-            easing.type: Easing.InOutBounce
+            easing.type: Easing.InBounce
+        }
+        OpacityAnimator on opacity {
+            running: false
+            id: bulbOff
+            from: 0.5
+            to: 0
+            duration: 1500
+            easing.type: Easing.InExpo
         }
     }
 
@@ -82,7 +82,7 @@ Rectangle {
         Image {
             id: busyIndicator
             anchors.horizontalCenter: parent.horizontalCenter
-            y: parent.height * 0.7
+            y: parent.height * 0.75
             source: "images/busywidget.svgz"
             sourceSize.height: units.gridUnit * 4
             sourceSize.width: units.gridUnit * 4
@@ -95,24 +95,33 @@ Rectangle {
             }
         }
     }
-
-    OpacityAnimator {
-        id: introAnimation
-        running: false
-        target: content
-        from: 0
-        to: 1
-        duration: 1000
-        easing.type: Easing.InOutQuad
-    }
-
-    OpacityAnimator {
-        id: casingIntroAnimation
-        running: false
-        target: casing
-        from: 0
-        to: 0.5
-        duration: 500
-        easing.type: Easing.InOutQuad
-    }
+        OpacityAnimator {
+            id: introAnimation
+            running: false
+            target: content
+            from: 0
+            to: 1
+            duration: 1000
+            easing.type: Easing.InExpo
+        }
+        ColorAnimation {
+            id: colorIntroAnimation
+            running: true
+            target: root
+            property: "color"
+            from: "black"
+            to: "#081c2d"
+            duration: 1000
+            easing.type: Easing.InExpo
+        }
+        OpacityAnimator {
+            id: castingIntroAnimation
+            running: false
+            target: casting
+            from: 0
+            to: 0.5
+            duration: 500
+            easing.type: Easing.InBounce
+        }
+        
 }
