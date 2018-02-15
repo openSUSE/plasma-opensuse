@@ -19,6 +19,7 @@
  */
 
 import QtQuick 2.5
+import QtGraphicalEffects 1.0
 
 Rectangle {
     id: root
@@ -30,8 +31,7 @@ Rectangle {
         if (stage == 1) {
             introAnimation.running = true;
             casingIntroAnimation.running = true;
-        } else if (stage == 2) {
-            bulbOn.running = true;
+            highlightIntroAnimation.running = true;
         } else if (stage == 5) {
             introAnimation.target = busyIndicator;
             introAnimation.from = 1;
@@ -39,11 +39,42 @@ Rectangle {
             introAnimation.running = true;
         }
     }
-
+    FastBlur {
+        anchors.fill: highlight
+        radius: 25
+        source: highlight
+    }
+    Image {
+        id: highlight
+        opacity: 0
+        source: "images/highlight.svg"
+        fillMode: Image.PreserveAspectFit
+        height: parent.height * 0.3
+        width: parent.height * 0.3 // The image is square
+        anchors.horizontalCenter: parent.horizontalCenter
+        y: parent.height * 0.2
+        OpacityAnimator on opacity {
+            running: false
+            id: bulbShadowOn
+            from: 0
+            to: 1
+            duration: 1000
+            easing.type: Easing.InBounce
+        }
+        OpacityAnimator on opacity {
+            running: false
+            id: bulbShadowOff
+            from: 0.5
+            to: 0
+            duration: 1500
+            easing.type: Easing.InExpo
+        }
+        
+    }
     Image {
         id: casing
         opacity: 0
-        source: "images/bulb.png" // This part doesn't seem to work with SVG blur
+        source: "images/bulb.svg"
         fillMode: Image.PreserveAspectFit
         height: parent.height * 0.3
         width: parent.height * 0.3 // The image is square
@@ -66,7 +97,8 @@ Rectangle {
             easing.type: Easing.InExpo
         }
     }
-
+    
+    
     Item {
         id: content
         anchors.fill: parent
@@ -115,9 +147,18 @@ Rectangle {
             easing.type: Easing.InExpo
         }
         OpacityAnimator {
-            id: castingIntroAnimation
+            id: casingIntroAnimation
             running: false
-            target: casting
+            target: casing
+            from: 0
+            to: 0.5
+            duration: 500
+            easing.type: Easing.InBounce
+        }
+        OpacityAnimator {
+            id: highlightIntroAnimation
+            running: false
+            target: highlight
             from: 0
             to: 0.5
             duration: 500
