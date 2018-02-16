@@ -31,6 +31,7 @@ Rectangle {
         if (stage == 1) {
             introAnimation.running = true;
             casingIntroAnimation.running = true;
+        } else if (stage == 2) {
             highlightIntroAnimation.running = true;
         } else if (stage == 5) {
             introAnimation.target = busyIndicator;
