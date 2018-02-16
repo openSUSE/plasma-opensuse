@@ -59,7 +59,7 @@ Rectangle {
             id: bulbShadowOn
             from: 0
             to: 1
-            duration: 1000
+            duration: 500
             easing.type: Easing.InBounce
         }
         OpacityAnimator on opacity {
@@ -67,7 +67,7 @@ Rectangle {
             id: bulbShadowOff
             from: 0.5
             to: 0
-            duration: 1500
+            duration: 750
             easing.type: Easing.InExpo
         }
         
@@ -86,7 +86,7 @@ Rectangle {
             id: bulbOn
             from: 0
             to: 1
-            duration: 1000
+            duration: 500
             easing.type: Easing.InBounce
         }
         OpacityAnimator on opacity {
@@ -94,7 +94,7 @@ Rectangle {
             id: bulbOff
             from: 0.5
             to: 0
-            duration: 1500
+            duration: 750
             easing.type: Easing.InExpo
         }
     }
