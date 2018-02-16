@@ -153,7 +153,7 @@ Rectangle {
             target: casing
             from: 0
             to: 0.5
-            duration: 500
+            duration: 1500
             easing.type: Easing.InBounce
         }
         OpacityAnimator {
@@ -162,7 +162,7 @@ Rectangle {
             target: highlight
             from: 0
             to: 0.5
-            duration: 500
+            duration: 1500
             easing.type: Easing.InBounce
         }
         
