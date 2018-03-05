@@ -141,8 +141,8 @@ Rectangle {
             running: false
             target: highlightBlur
             from: 0
-            to: 0.75
-            duration: 1500
+            to: 0.5
+            duration: 2000
             easing.type: Easing.InBounce
         }
         OpacityAnimator {
