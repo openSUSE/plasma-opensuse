@@ -30,9 +30,12 @@ Rectangle {
     onStageChanged: {
         if (stage == 1) {
             introAnimation.running = true;
+            
+        } else if (stage == 3) {
             casingIntroAnimation.running = true;
-        } else if (stage == 2) {
             highlightIntroAnimation.running = true;
+        } else if (stage == 4) {
+            highlightIntroReanimation.running = true;
         } else if (stage == 5) {
             introAnimation.target = busyIndicator;
             introAnimation.from = 1;
@@ -41,8 +44,17 @@ Rectangle {
         }
     }
     FastBlur {
+        id: casingBlur
+        opacity: 0
+        anchors.fill: casing
+        radius: 5
+        source: casing
+    }
+    FastBlur {
+        id: highlightBlur
+        opacity: 0
         anchors.fill: highlight
-        radius: 25
+        radius: 50
         source: highlight
     }
     Image {
@@ -50,53 +62,21 @@ Rectangle {
         opacity: 0
         source: "images/highlight.svg"
         fillMode: Image.PreserveAspectFit
-        height: parent.height * 0.3
-        width: parent.height * 0.3 // The image is square
+        height: parent.height * 0.5
+        width: parent.height * 0.5 // The image is square
         anchors.horizontalCenter: parent.horizontalCenter
-        y: parent.height * 0.2
-        OpacityAnimator on opacity {
-            running: false
-            id: bulbShadowOn
-            from: 0
-            to: 1
-            duration: 500
-            easing.type: Easing.InBounce
-        }
-        OpacityAnimator on opacity {
-            running: false
-            id: bulbShadowOff
-            from: 0.5
-            to: 0
-            duration: 750
-            easing.type: Easing.InExpo
-        }
+        y: parent.height * 0.1
         
     }
     Image {
         id: casing
-        opacity: 0
+        opacity: 0.05
         source: "images/bulb.svg"
         fillMode: Image.PreserveAspectFit
-        height: parent.height * 0.3
-        width: parent.height * 0.3 // The image is square
+        height: parent.height * 0.5
+        width: parent.height * 0.5 // The image is square
         anchors.horizontalCenter: parent.horizontalCenter
-        y: parent.height * 0.2
-        OpacityAnimator on opacity {
-            running: false
-            id: bulbOn
-            from: 0
-            to: 1
-            duration: 500
-            easing.type: Easing.InBounce
-        }
-        OpacityAnimator on opacity {
-            running: false
-            id: bulbOff
-            from: 0.5
-            to: 0
-            duration: 750
-            easing.type: Easing.InExpo
-        }
+        y: parent.height * 0.1
     }
     
     
@@ -144,26 +124,35 @@ Rectangle {
             property: "color"
             from: "black"
             to: "#081c2d"
-            duration: 1000
+            duration: 2000
             easing.type: Easing.InExpo
         }
         OpacityAnimator {
             id: casingIntroAnimation
             running: false
-            target: casing
+            target: casingBlur
             from: 0
-            to: 0.5
+            to: 1
             duration: 1500
             easing.type: Easing.InBounce
         }
         OpacityAnimator {
             id: highlightIntroAnimation
             running: false
-            target: highlight
+            target: highlightBlur
             from: 0
-            to: 0.5
+            to: 0.75
             duration: 1500
             easing.type: Easing.InBounce
+        }
+        OpacityAnimator {
+            id: highlightIntroReanimation
+            running: false
+            target: highlightBlur
+            from: 0.2
+            to: 1
+            duration: 2000
+            easing.type: Easing.InExpo
         }
         
 }
