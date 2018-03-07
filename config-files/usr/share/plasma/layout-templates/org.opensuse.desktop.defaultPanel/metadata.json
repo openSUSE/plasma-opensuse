@@ -23,6 +23,6 @@
         "Version": "1.0",
         "Website": "http://opensuse.org/"
     },
-    "X-Plasma-ContainmentCategories": "panel",
+    "X-Plasma-ContainmentCategories": ["panel"],
     "X-Plasma-Shell": "plasmashell"
 }
