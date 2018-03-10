@@ -133,7 +133,7 @@ Rectangle {
             target: casingBlur
             from: 0
             to: 1
-            duration: 1500
+            duration: 800
             easing.type: Easing.InBounce
         }
         OpacityAnimator {
@@ -142,7 +142,7 @@ Rectangle {
             target: highlightBlur
             from: 0
             to: 0.5
-            duration: 2000
+            duration: 1000
             easing.type: Easing.InBounce
         }
         OpacityAnimator {
@@ -151,7 +151,7 @@ Rectangle {
             target: highlightBlur
             from: 0.2
             to: 1
-            duration: 2000
+            duration: 1000
             easing.type: Easing.InExpo
         }
         
