@@ -30,12 +30,9 @@ Rectangle {
     onStageChanged: {
         if (stage == 1) {
             introAnimation.running = true;
-            
         } else if (stage == 3) {
             casingIntroAnimation.running = true;
             highlightIntroAnimation.running = true;
-        } else if (stage == 4) {
-            highlightIntroReanimation.running = true;
         } else if (stage == 5) {
             introAnimation.target = busyIndicator;
             introAnimation.from = 1;
@@ -141,18 +138,9 @@ Rectangle {
             running: false
             target: highlightBlur
             from: 0
-            to: 0.5
-            duration: 1000
-            easing.type: Easing.InBounce
-        }
-        OpacityAnimator {
-            id: highlightIntroReanimation
-            running: false
-            target: highlightBlur
-            from: 0.2
             to: 1
-            duration: 1000
-            easing.type: Easing.InExpo
+            duration: 800
+            easing.type: Easing.InBounce
         }
         
 }
