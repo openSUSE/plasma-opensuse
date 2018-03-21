@@ -19,6 +19,7 @@
  */
 
 import QtQuick 2.5
+import QtGraphicalEffects 1.0
 
 Rectangle {
     id: root
@@ -29,9 +30,9 @@ Rectangle {
     onStageChanged: {
         if (stage == 1) {
             introAnimation.running = true;
+        } else if (stage == 3) {
             casingIntroAnimation.running = true;
-        } else if (stage == 2) {
-            bulbOn.running = true;
+            highlightIntroAnimation.running = true;
         } else if (stage == 5) {
             introAnimation.target = busyIndicator;
             introAnimation.from = 1;
@@ -39,34 +40,43 @@ Rectangle {
             introAnimation.running = true;
         }
     }
-
+    FastBlur {
+        id: casingBlur
+        opacity: 0
+        anchors.fill: casing
+        radius: 5
+        source: casing
+    }
+    FastBlur {
+        id: highlightBlur
+        opacity: 0
+        anchors.fill: highlight
+        radius: 50
+        source: highlight
+    }
+    Image {
+        id: highlight
+        opacity: 0
+        source: "images/highlight.svg"
+        fillMode: Image.PreserveAspectFit
+        height: parent.height * 0.5
+        width: parent.height * 0.5 // The image is square
+        anchors.horizontalCenter: parent.horizontalCenter
+        y: parent.height * 0.1
+        
+    }
     Image {
         id: casing
-        opacity: 0
+        opacity: 0.05
         source: "images/bulb.svg"
         fillMode: Image.PreserveAspectFit
-        height: parent.height
-        width: parent.height // The image is square
+        height: parent.height * 0.5
+        width: parent.height * 0.5 // The image is square
         anchors.horizontalCenter: parent.horizontalCenter
-        y: height * -0.1
+        y: parent.height * 0.1
     }
-
-    Image {
-        id: bulb
-        source: "images/filamentglow.svg"
-        opacity: 0
-        fillMode: Image.PreserveAspectFit
-        anchors.fill: casing
-        OpacityAnimator on opacity {
-            running: false
-            id: bulbOn
-            from: 0
-            to: 1
-            duration: 1000
-            easing.type: Easing.InOutBounce
-        }
-    }
-
+    
+    
     Item {
         id: content
         anchors.fill: parent
@@ -82,7 +92,7 @@ Rectangle {
         Image {
             id: busyIndicator
             anchors.horizontalCenter: parent.horizontalCenter
-            y: parent.height * 0.7
+            y: parent.height * 0.75
             source: "images/busywidget.svgz"
             sourceSize.height: units.gridUnit * 4
             sourceSize.width: units.gridUnit * 4
@@ -95,24 +105,42 @@ Rectangle {
             }
         }
     }
-
-    OpacityAnimator {
-        id: introAnimation
-        running: false
-        target: content
-        from: 0
-        to: 1
-        duration: 1000
-        easing.type: Easing.InOutQuad
-    }
-
-    OpacityAnimator {
-        id: casingIntroAnimation
-        running: false
-        target: casing
-        from: 0
-        to: 0.5
-        duration: 500
-        easing.type: Easing.InOutQuad
-    }
+        OpacityAnimator {
+            id: introAnimation
+            running: false
+            target: content
+            from: 0
+            to: 1
+            duration: 1000
+            easing.type: Easing.InExpo
+        }
+        ColorAnimation {
+            id: colorIntroAnimation
+            running: true
+            target: root
+            property: "color"
+            from: "black"
+            to: "#081c2d"
+            duration: 2000
+            easing.type: Easing.InExpo
+        }
+        OpacityAnimator {
+            id: casingIntroAnimation
+            running: false
+            target: casingBlur
+            from: 0
+            to: 1
+            duration: 800
+            easing.type: Easing.InBounce
+        }
+        OpacityAnimator {
+            id: highlightIntroAnimation
+            running: false
+            target: highlightBlur
+            from: 0
+            to: 1
+            duration: 800
+            easing.type: Easing.InBounce
+        }
+        
 }
