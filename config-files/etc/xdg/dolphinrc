@@ -4,6 +4,3 @@ ShowCopyMoveMenu=true
 
 [DetailsMode]
 ExpandableFolders=true
-
-[PreviewSettings]
-Plugins=imagethumbnail,jpegthumbnail,kraorathumbnail,directorythumbnail,svgthumbnail,textthumbnail,gsthumbnail,rawthumbnail,ffmpegthumbs,opendocumentthumbnail
