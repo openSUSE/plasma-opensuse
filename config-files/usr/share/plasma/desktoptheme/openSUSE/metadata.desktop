@@ -13,6 +13,8 @@ X-KDE-PluginInfo-Depends=
 X-KDE-PluginInfo-License=GPL
 X-KDE-PluginInfo-EnabledByDefault=true
 
+[Settings]
+FallbackTheme=oxygen
 
 [Wallpaper]
 defaultWallpaperTheme=openSUSEdefault
