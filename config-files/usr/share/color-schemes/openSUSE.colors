@@ -1,26 +1,26 @@
 [ColorEffects:Disabled]
-Color=112,111,110
+Color=56,56,56
 ColorAmount=0
 ColorEffect=0
-ContrastAmount=0.55
+ContrastAmount=0.65
 ContrastEffect=1
-IntensityAmount=0.05
+IntensityAmount=0.1
 IntensityEffect=2
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
 Color=112,111,110
-ColorAmount=0
+ColorAmount=0.025
 ColorEffect=2
 ContrastAmount=0.1
 ContrastEffect=2
-Enable=true
+Enable=false
 IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=224,223,222
-BackgroundNormal=236,235,235
+BackgroundAlternate=189,195,199
+BackgroundNormal=239,240,241
 DecorationFocus=53,185,171
 DecorationHover=53,185,171
 ForegroundActive=101,97,49
@@ -61,8 +61,8 @@ ForegroundPositive=0,110,40
 ForegroundVisited=100,74,155
 
 [Colors:View]
-BackgroundAlternate=248,247,246
-BackgroundNormal=255,255,255
+BackgroundAlternate=239,240,241
+BackgroundNormal=252,252,252
 DecorationFocus=53,185,171
 DecorationHover=53,185,171
 ForegroundActive=160,160,40
@@ -75,8 +75,8 @@ ForegroundPositive=0,164,137
 ForegroundVisited=155,82,94
 
 [Colors:Window]
-BackgroundAlternate=218,217,216
-BackgroundNormal=232,231,231
+BackgroundAlternate=189,195,199
+BackgroundNormal=239,240,241
 DecorationFocus=53,185,171
 DecorationHover=53,185,171
 ForegroundActive=23,136,26
@@ -88,6 +88,20 @@ ForegroundNormal=20,19,18
 ForegroundPositive=41,94,25
 ForegroundVisited=155,82,94
 
+[Colors:Complementary]
+BackgroundAlternate=59,64,69
+BackgroundNormal=49,54,59
+DecorationFocus=30,146,255
+DecorationHover=61,174,230
+ForegroundActive=147,206,233
+ForegroundInactive=175,176,179
+ForegroundLink=61,174,230
+ForegroundNegative=231,76,60
+ForegroundNeutral=253,188,75
+ForegroundNormal=239,240,241
+ForegroundPositive=46,204,113
+ForegroundVisited=61,174,230
+
 [General]
 ColorScheme=openSUSE
 Name=openSUSE
@@ -97,9 +111,9 @@ shadeSortColumn=true
 contrast=4
 
 [WM]
-activeBackground=0,164,137
-activeBlend=0,164,137
-activeForeground=255,255,255
-inactiveBackground=232,231,231
-inactiveBlend=232,231,231
-inactiveForeground=20,19,18
+activeBackground=23,63,79
+activeBlend=252,252,252
+activeForeground=252,252,252
+inactiveBackground=239,240,241
+inactiveBlend=47,83,93
+inactiveForeground=189,195,199
