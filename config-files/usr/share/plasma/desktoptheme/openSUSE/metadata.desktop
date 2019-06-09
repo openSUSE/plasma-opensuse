@@ -21,7 +21,7 @@ defaultWidth=1920
 defaultHeight=1080
 
 [ContrastEffect]
+enabled=false
+
+[BlurBehindEffect]
 enabled=true
-contrast=0.2
-intensity=2.0
-saturation=1.7
