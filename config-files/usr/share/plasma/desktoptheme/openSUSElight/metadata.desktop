@@ -27,3 +27,6 @@ enabled=true
 contrast=0.2
 intensity=2.0
 saturation=1.7
+
+[AdaptiveTransparency]
+enabled=true
