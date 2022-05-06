@@ -18,4 +18,5 @@ X-KDE-PluginInfo-EnabledByDefault=true
 [Settings]
 FallbackTheme=air
 
-
+[AdaptiveTransparency]
+enabled=true
