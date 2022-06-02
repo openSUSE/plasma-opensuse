@@ -12,6 +12,9 @@ menuFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 smallestReadableFont=Noto Sans,8,-1,5,50,0,0,0,0,0,Regular
 taskbarFont=Noto Sans,10,-1,5,50,0,0,0,0,0,Regular
 toolBarFont=Noto Sans,9,-1,5,50,0,0,0,0,0,Regular
+# For some reason the LNF's defaults file is not always read,
+# so set the color scheme here as well.
+ColorScheme=BreezeClassic
 
 [Icons]
 Theme=breeze
