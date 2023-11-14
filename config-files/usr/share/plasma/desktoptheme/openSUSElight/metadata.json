@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "opensuse-kde@opensuse.org",
+                "Name": "openSUSE KDE team"
+            }
+        ],
+        "Category": "",
+        "Dependencies": [
+        ],
+        "Description": "light openSUSE theme",
+        "EnabledByDefault": true,
+        "Id": "openSUSElight",
+        "License": "GPL",
+        "Name": "openSUSElight",
+        "Version": "0.6",
+        "Website": "http://en.opensuse.org/Portal:KDE"
+    },
+    "X-Plasma-API": "5.0"
+}
