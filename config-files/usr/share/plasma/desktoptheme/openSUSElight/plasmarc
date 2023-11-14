@@ -1,0 +1,17 @@
+[Settings]
+FallbackTheme=breeze-light
+
+[Wallpaper]
+defaultWallpaperTheme=openSUSEdefault
+defaultFileSuffix=.jpg
+defaultWidth=1920
+defaultHeight=1080
+
+[ContrastEffect]
+enabled=true
+contrast=0.2
+intensity=2.0
+saturation=1.7
+
+[AdaptiveTransparency]
+enabled=true

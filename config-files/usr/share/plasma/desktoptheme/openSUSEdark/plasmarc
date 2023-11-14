@@ -1,0 +1,11 @@
+[Settings]
+FallbackTheme=breeze-dark
+
+[Wallpaper]
+defaultWallpaperTheme=openSUSEdefault
+defaultFileSuffix=.jpg
+defaultWidth=1920
+defaultHeight=1080
+
+[AdaptiveTransparency]
+enabled=true
