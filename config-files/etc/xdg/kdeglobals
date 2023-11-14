@@ -1,7 +1,3 @@
-[KDE URL Restrictions]
-rule_1=redirect,,help.opensuse.org,,irc,irc.opensuse.org,,true
-rule_count=1
-
 [General]
 shadeSortColumn=true
 BrowserApplication=firefox
