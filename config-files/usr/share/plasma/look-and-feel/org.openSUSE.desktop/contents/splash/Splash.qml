@@ -19,7 +19,7 @@
  */
 
 import QtQuick 2.5
-import QtGraphicalEffects 1.0
+import Qt5Compat.GraphicalEffects 6.0
 
 Rectangle {
     id: root
@@ -105,42 +105,42 @@ Rectangle {
             }
         }
     }
-        OpacityAnimator {
-            id: introAnimation
-            running: false
-            target: content
-            from: 0
-            to: 1
-            duration: 1000
-            easing.type: Easing.InExpo
-        }
-        ColorAnimation {
-            id: colorIntroAnimation
-            running: true
-            target: root
-            property: "color"
-            from: "black"
-            to: "#081c2d"
-            duration: 2000
-            easing.type: Easing.InExpo
-        }
-        OpacityAnimator {
-            id: casingIntroAnimation
-            running: false
-            target: casingBlur
-            from: 0
-            to: 1
-            duration: 800
-            easing.type: Easing.InBounce
-        }
-        OpacityAnimator {
-            id: highlightIntroAnimation
-            running: false
-            target: highlightBlur
-            from: 0
-            to: 1
-            duration: 800
-            easing.type: Easing.InBounce
-        }
-        
+
+    OpacityAnimator {
+        id: introAnimation
+        running: false
+        target: content
+        from: 0
+        to: 1
+        duration: 1000
+        easing.type: Easing.InExpo
+    }
+    ColorAnimation {
+        id: colorIntroAnimation
+        running: true
+        target: root
+        property: "color"
+        from: "black"
+        to: "#081c2d"
+        duration: 2000
+        easing.type: Easing.InExpo
+    }
+    OpacityAnimator {
+        id: casingIntroAnimation
+        running: false
+        target: casingBlur
+        from: 0
+        to: 1
+        duration: 800
+        easing.type: Easing.InBounce
+    }
+    OpacityAnimator {
+        id: highlightIntroAnimation
+        running: false
+        target: highlightBlur
+        from: 0
+        to: 1
+        duration: 800
+        easing.type: Easing.InBounce
+    }
 }
