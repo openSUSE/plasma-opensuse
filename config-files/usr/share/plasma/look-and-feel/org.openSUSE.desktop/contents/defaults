@@ -10,6 +10,9 @@ Theme=breeze
 [plasmarc][Theme]
 name=openSUSE
 
+[Wallpaper]
+Image=openSUSEdefault
+
 [kcminputrc][Mouse]
 cursorTheme=breeze_cursors
 
